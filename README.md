@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Desktop Support Engineer | Learning AWS & DevOps
+Terraform | Linux | Docker | CI/CD
+Open to Cloud Support / Cloud Engineer Roles
 <!--
 **sonidvs/sonidvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
